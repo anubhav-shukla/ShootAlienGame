@@ -1,0 +1,3 @@
+include ':shootalien'
+include ':app'
+rootProject.name = "AlienShooterGame"
